@@ -1,5 +1,6 @@
-title: "My Course"
-description: "A comprehensive course on data science."
-baseurl: "/my-course-webpage" # the subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # the base hostname & protocol for your site
+title: "My Advanced Algorithms Course"
+description: "A comprehensive course on advnced algorithms."
+baseurl: "/Advanced Algorithms" # the subpath of your site, e.g. /blog
+url: "https://shbehjati.github.io" # the base hostname & protocol for your site
 theme: jekyll-theme-cayman # the theme you selected
+remote_theme: tuur29/pages-themes-cayman
